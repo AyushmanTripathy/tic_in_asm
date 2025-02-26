@@ -1,7 +1,27 @@
 # Tic Tac Toe in x86_64 NASM
 
-other assembley programs of mine can be found at [asm](https://github.com/AyushmanTripathy/asm).
+Tic Tac Toe (or noughts and crosses :) ) in NASM  
+This assembley program is runs in Real mode (as the boot sector in a vm) in 16 bit addressing mode, and is assisted by BIOS.  
+Other assembley programs of mine can be found at [asm](https://github.com/AyushmanTripathy/asm).   
 
+### Running Locally
+
+You will need,
+
+1. nasm
+1. qemu (qemu-common package generally)
+
+Then clone the repo and execute the run.sh script.
+
+```sh
+git clone https://github.com/AyushmanTripathy/tic_in_asm
+sh run.sh
+```
+
+### Screenshots
+
+![Game Start](https://github.com/user-attachments/assets/ed075c14-cadf-408f-a2c7-267420c3ecb6)
+![X Won](https://github.com/user-attachments/assets/c2f9b49e-465a-4d19-bf03-4aaee8495dc3)
 
 ### Resources
 
