@@ -1,8 +1,8 @@
 # Tic Tac Toe in x86_64 NASM
 
 Tic Tac Toe (or noughts and crosses :) ) in NASM  
-This assembley program is runs in Real mode (as the boot sector in a vm) in 16 bit addressing mode, and is assisted by BIOS.  
-Other assembley programs of mine can be found at [asm](https://github.com/AyushmanTripathy/asm).   
+This assembley program runs in Real mode (as the boot sector in a vm) in 16 bit addressing mode, and is assisted by BIOS.  
+Other assembley programs can be found at [asm](https://github.com/AyushmanTripathy/asm).   
 
 ### Running Locally
 
