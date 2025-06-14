@@ -18,10 +18,15 @@ git clone https://github.com/AyushmanTripathy/tic_in_asm
 sh run.sh
 ```
 
-### Screenshots
+![Game Play](https://github.com/user-attachments/assets/fadf44d9-d228-479c-83fc-a1c2f03c971a)
 
-![Game Start](https://github.com/user-attachments/assets/ed075c14-cadf-408f-a2c7-267420c3ecb6)
-![X Won](https://github.com/user-attachments/assets/c2f9b49e-465a-4d19-bf03-4aaee8495dc3)
+<details>
+  <summary> Screenshots </summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/ed075c14-cadf-408f-a2c7-267420c3ecb6" alt="Game Start">
+  <img src="https://github.com/user-attachments/assets/c2f9b49e-465a-4d19-bf03-4aaee8495dc3" alt="X Won">
+</details>
+
 
 ### Resources
 
